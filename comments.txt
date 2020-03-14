@@ -1,0 +1,6 @@
+Error of compilation.
+rsfind.c:12:20: fatal error: tiretT.h: No such file or directory
+ #include "tiretT.h"
+                    ^
+compilation terminated.
+make: *** [rsfind] Error 1
